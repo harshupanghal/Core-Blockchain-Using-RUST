@@ -22,7 +22,7 @@ Ensure that you have the following installed:
 
 Clone the repository to your local machine:
 ```bash
-git clone https://github.com/yourusername/RustBlockchain.git
+git clone https://github.com/harshupanghal/RustBlockchain.git
 cd RustBlockchain
 ```
 
