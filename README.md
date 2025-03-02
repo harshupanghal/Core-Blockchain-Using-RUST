@@ -42,7 +42,7 @@ Follow the on-screen prompts to create transactions, mine blocks, and adjust par
 
 ## Contributing 
 
-We welcome contributions from the community. If you'd like to contribute, please follow the guidelines outlined in the CONTRIBUTING.md file.   
+We welcome contributions from the community. If you'd like to contribute, then sned me a mail about it.   
 
 ## **License**
 
